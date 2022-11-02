@@ -1,5 +1,5 @@
 # redhat-course-kubernetes-openshift
-Workspace for Red Hat OpenShift I: Containers &amp; Kubernetes 4.10
+Workspace for Red Hat OpenShift I: Containers &amp; Kubernetes 4.10 from Red Hat Academy. 
 
 ### Chapter 1: Introducing Container Technology
 - Section 1.1: Overview of Container Technology
